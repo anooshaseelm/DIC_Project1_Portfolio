@@ -10,7 +10,8 @@ shooting crimes reported to the New York City
 Police Department (NYPD) from 2006 to the
 end of 2019.
 
-
+## Exploratory Data Analysis
+![](/images/image3.png)
 
 
 ## Welcome to GitHub Pages
