@@ -1,3 +1,18 @@
+# NYPD Crime Data Analysis: Project Overview 
+The goal of this project is to clean
+the data in a dataset, analyse it and generate a
+descriptive summary. Also we have done some
+data exploration with the dataset. The cleaned
+data is used to generate a descriptive summary
+for the features and contents. The dataset used
+(NYPD Shooting Incidents Dataset) includes all
+shooting crimes reported to the New York City
+Police Department (NYPD) from 2006 to the
+end of 2019.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/anooshaseelm/DIC_Project1_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
