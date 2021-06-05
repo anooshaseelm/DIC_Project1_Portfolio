@@ -9,7 +9,8 @@ for the features and contents. The dataset used
 shooting crimes reported to the New York City
 Police Department (NYPD) from 2006 to the
 end of 2019.
-
+### Data Cleaning of NYPD shooting data
+Data cleaning is an important step in any Data science project. 
 ## Exploratory Data Analysis
 ![](/images/image3.png)
 
