@@ -9,6 +9,30 @@ for the features and contents. The dataset used
 shooting crimes reported to the New York City
 Police Department (NYPD) from 2006 to the
 end of 2019.
+### File description
+
+### Technologies Used
+<details>
+<a name="Technologies_Used"></a>
+<summary>Show/Hide</summary>
+<br>
+    
+* <strong>Python</strong>
+* <strong>Pandas</strong>
+* <strong>Numpy</strong>
+* <strong>Matplotlib</strong>
+* <strong>Seaborn</strong>
+* <strong>NLTK</strong>
+* <strong>Scrapy</strong>
+* <strong>Scikit-Learn</strong>
+* <strong>Keras</strong>
+* <strong>Tensorflow</strong>
+* <strong>Streamlit</strong>
+* <strong>Heroku</strong>
+</details>
+
+### Execution Summary
+
 ### Data Cleaning of NYPD shooting data
 Data cleaning is an important step in any Data science project. In this step, we will clean the dataset by applying following data cleaning methods
 - Removing any duplicates present in the dataset.
@@ -20,8 +44,8 @@ Data cleaning is an important step in any Data science project. In this step, we
 - Encoding categorical names with numerics.
 - Removing any unnecessary columns.
 
-## Exploratory Data Analysis
-![](/images/image3.png)
+<!-- ## Exploratory Data Analysis -->
+<!-- ![](/images/image3.png) -->
 
 
 ## Welcome to GitHub Pages
