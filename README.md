@@ -9,7 +9,9 @@ for the features and contents. The dataset used
 shooting crimes reported to the New York City
 Police Department (NYPD) from 2006 to the
 end of 2019.
-### File description
+
+<strong> Demo application of the crime predictor: https://nypd-crime-predictor.herokuapp.com/ </strong> 
+### File Description
 
 ### Technologies Used
 <details>
