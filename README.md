@@ -24,12 +24,10 @@ end of 2019.
 * <strong>Numpy</strong>
 * <strong>Matplotlib</strong>
 * <strong>Seaborn</strong>
-* <strong>NLTK</strong>
 * <strong>Scrapy</strong>
 * <strong>Scikit-Learn</strong>
 * <strong>Keras</strong>
 * <strong>Tensorflow</strong>
-* <strong>Streamlit</strong>
 * <strong>Heroku</strong>
 </details>
 
